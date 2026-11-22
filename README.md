@@ -61,7 +61,7 @@ Make sure Node.js and npm are installed on your system.
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Naveen9492/focusboard
 ```
 
 Navigate to the project directory:
@@ -142,7 +142,7 @@ No backend API or external database is currently required.
 
 ## 9. Hosted Application
 
-**Live Demo:** nfocusboard.vercel.app
+**Live Demo:** https://nfocusboard.vercel.app
 
 ## 10. GitHub Repository
 
