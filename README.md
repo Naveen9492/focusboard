@@ -142,11 +142,11 @@ No backend API or external database is currently required.
 
 ## 9. Hosted Application
 
-**Live Demo:** YOUR_HOSTED_APPLICATION_URL
+**Live Demo:** nfocusboard.vercel.app
 
 ## 10. GitHub Repository
 
-**Source Code:** YOUR_GITHUB_REPOSITORY_URL
+**Source Code:** https://github.com/Naveen9492/focusboard.git
 
 ## 11. Known Limitations and Future Improvements
 
